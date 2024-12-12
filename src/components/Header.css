@@ -1,0 +1,28 @@
+/* src/components/Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f075af;
+    color: rgb(108, 209, 201);
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin: 0 10px;
+  }
+  
+  nav ul li a {
+    color: rgb(131, 232, 243);
+    text-decoration: none;
+  }
+  
+  .social-links a {
+    color: white;
+    margin: 0 10px;
+  }
+  
